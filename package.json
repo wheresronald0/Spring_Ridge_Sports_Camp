@@ -1,0 +1,24 @@
+{
+  "name": "spring_ridge_sports_camp",
+  "version": "1.0.0",
+  "description": "Ficticious Summer Camp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheresronald0/Spring_Ridge_Sports_Camp.git"
+  },
+  "author": "Ron Mason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wheresronald0/Spring_Ridge_Sports_Camp/issues"
+  },
+  "homepage": "https://github.com/wheresronald0/Spring_Ridge_Sports_Camp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
